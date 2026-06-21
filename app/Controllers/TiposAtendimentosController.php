@@ -6,7 +6,7 @@ class TiposAtendimentosController
 
     public function __construct()
     {
-        require __DIR__ . '/../config/database.php';
+        require __DIR__ . '/../../config/database.php';
         $this->pdo = $pdo;
     }
 

@@ -11,7 +11,7 @@ class UsuariosController
     public function __construct()
     {
         // Importa o arquivo que inicializa o objeto $pdo.
-    require __DIR__ . '/../config/database.php';
+    require __DIR__ . '/../../config/database.php';
         $this->pdo = $pdo;
     }
 
