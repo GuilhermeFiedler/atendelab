@@ -23,8 +23,4 @@ Software.
 3. Iniciar Apache e MySQL.
 4. Criar o banco atendelab.
 5. Importar o script database/atendelab.sql.
-<<<<<<< HEAD
 6. Acessar http://localhost/atendelab/public/
-=======
-6. Acessar http://localhost/atendelab/public/
->>>>>>> e57d0a6f658ce2d1c63b4279130ee0c75fbd1847
